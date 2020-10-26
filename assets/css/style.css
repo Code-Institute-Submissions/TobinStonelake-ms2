@@ -53,6 +53,12 @@ font-size: 6vw;
 font-size: 7.5vw
 }
 
+.card-text {
+font-family: 'Yanone Kaffeesatz', sans-serif;
+color: #800080; 
+letter-spacing: 3px;
+}
+
 .form-text {
 font-family: 'Yanone Kaffeesatz', sans-serif;
 font-weight: 300;
