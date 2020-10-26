@@ -1,0 +1,98 @@
+.container-fluid {
+background-color: #800080;
+height: 150%;
+width: 100%
+}
+
+.fa-record-vinyl {
+font-size: 20px;
+color: #800080;
+}
+
+.banner-image {
+   width: 100%;
+   height: auto;
+}
+
+.disco-hmpg {
+width: 20rem;
+height: 20rem;   
+}
+
+.main-text {
+flex-wrap: nowrap;
+}
+
+h1 {
+    font-size: 15vw;
+}
+.head-text{
+font-family: 'Lily Script One', cursive;
+font-weight: 300;
+font-style: normal;
+letter-spacing: 3px;
+padding: 60px 60px 0px 60px;
+color: white;
+}
+
+.normal-text {
+font-family: 'Yanone Kaffeesatz', sans-serif;
+font-weight: 300;
+font-style: normal;
+letter-spacing: 3px;
+color: white;
+font-size: 6vw;
+}
+
+
+.tracks {
+    margin-top: 30px;
+}
+
+.product-head {
+font-size: 7.5vw
+}
+
+.form-text {
+font-family: 'Yanone Kaffeesatz', sans-serif;
+font-weight: 300;
+font-style: normal;
+letter-spacing: 3px;
+color: white;
+font-size: 3vw;
+}
+
+footer {
+    position: relative;
+    width: 100%;
+    margin: 0px;
+}
+
+.footer-image {
+    min-height: 25vh;
+    width: 100%;
+}
+
+.footer-text {
+    position: absolute;
+    text-align: auto;
+    bottom: 0;
+    color: white;
+    margin-bottom: 50px;
+    font-size: 20px;
+}
+
+.soc-link {
+    position: absolute;
+    bottom: 0;
+    color: white;
+    margin-bottom: 10px;
+    }
+
+.soc-link2 {
+    position: absolute;
+    bottom: 0;
+    color: white;
+    margin-bottom: 10px;
+    margin-left: 50px;
+    }
