@@ -59,7 +59,12 @@ color: #800080;
 letter-spacing: 3px;
 }
 
-div#map {min-height: 360px;}
+#map {
+    min-height: 360px;
+    width: 100%;
+    margin: 10px;
+    }
+
 
 .form-text {
 font-family: 'Yanone Kaffeesatz', sans-serif;
