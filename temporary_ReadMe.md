@@ -109,16 +109,15 @@ developer tools have been utilised to achieve this aim.
 * Responsive across all devices.
 
 * Interactive elements:
-    * The main interactive element found on this site is the modal at the 
-        bottom of the blog pages. This gives the user the ability to conduct
-        their own research towards any information they find interesting within
-        the content. This ability is abetted by the use of academically-standardised
-        Harvard referencing, which is likely to be a format that the reader understands
-        and provides the user with all the information to find sources that are physical materials, 
-        such as books.            
-    * To complement this ease of user-research further, any sources that are available
-        online have been directly linked to and accessible by the user. This includes
-        pay-to-view content, free content and sources from mainstream media.
+    * The driving goal of this site was to present the User with various interactive 
+        elements across each page. 
+    * On the Homepage, the User can interact with *Jig & Thonic's* Facebook page,
+        through a 'Widget' provided by Elfsight.            
+    * On the Tracks page, the User can access songs and recorded mixes, created by the author,
+        that have been uploaded to Soundcloud. This allows the User to keep up to date with
+        the latest content that has been uploaded to Soundcloud.
+    * On the Events page, a number of ficitious events have been marked on an embedded 
+        Google Map. Details towards each event can be found below.
     * The navigation bar is also interactive by the provision of a collapsible button that
         allows the user to easily find their way to any page on the site. While still adhering
         to the visual appeal of the site when viewed on smaller devices.
