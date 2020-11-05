@@ -41,7 +41,7 @@ font-weight: 300;
 font-style: normal;
 letter-spacing: 3px;
 color: white;
-font-size: 6vw;
+font-size: 4.5vw;
 }
 
 
@@ -87,12 +87,13 @@ footer {
 }
 
 .footer-text {
+    font-family: 'Yanone Kaffeesatz', sans-serif;
     position: absolute;
     text-align: auto;
     bottom: 0;
     color: white;
     margin-bottom: 50px;
-    font-size: 20px;
+    font-size: 3vh;
 }
 
 .soc-link {
