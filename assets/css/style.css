@@ -44,6 +44,30 @@ color: white;
 font-size: 4.5vw;
 }
 
+/* Elfsight Widget */
+
+/* .eapps-facebook-feed-header-top {
+    background: #800080;
+    position: relative;
+}
+
+.eapps-facebook-feed-header-picture a {
+    display: block;
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    background-position: center;
+    border: solid;
+    border-color: white;
+} */
+
+/* Unfortunately, I cannot work out how to override the
+CSS that is imported with the widget, without using
+Elfsight's custom CSS tool on their site. Original
+style choices were made through Inspect element functions
+and copied and pasted into Elfsight's tool. Please refer to
+README documentation for evidence of this. */
+
 
 .tracks {
     margin-top: 30px;
