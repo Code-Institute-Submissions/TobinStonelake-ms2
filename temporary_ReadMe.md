@@ -162,7 +162,10 @@ developer tools have been utilised to achieve this aim.
 1. [Soundcloud:] (https://www.soundcloud.com)
     - Soundcloud has been used to embed the author's tracks and recordings, which will be updated as the author
         updates each respective playlist.
-1. []
+1. [Elfsight:] (https://elfsight.com/)
+    - Elfsight's Facebook 'Widget' was used to create further interactivity on the Homepage. This was chosen due
+        to the nature of the website wanting to be consistently updated across all other relevant sites that are
+        attached to *Jig & Thonic*.
 1. [Balsamiq:](https://balsamiq.com/)
     - Balsamiq was used to create the [wireframes](https://en.wikipedia.org/wiki/Website_wireframe) during the design process.
 1. [Microsoft Word:](https://www.microsoft.com/en-gb/microsoft-365/word)
