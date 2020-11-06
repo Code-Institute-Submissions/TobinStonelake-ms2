@@ -82,12 +82,12 @@ developer tools have been utilised to achieve this aim.
         and APIs.
 
 * Typography
-    * Two fonts have been used across the site. Lily Script One is the head font 
+    * Two fonts have been used across the site. 'Lily Script One' is the head font 
         used throughout the website due to the stylisation that *Jig & Thonic* have
         incorporated within their own branding and promotion. It is remnant of the 70/80s
         Disco themed writing, that the act promotes themselves as representing. To ensure
         that a similar font will be prevalent, Cursive serves as a fall back.
-    * For the main text throughout the site, Yanone Kaffeesatz has been used.
+    * For the main text throughout the site, 'Yanone Kaffeesatz' has been used.
         In the author's view, this is also resmebeling a retro style font, thus, adhering
         to the same textual principle that is conveyed by the head font decision. This
         clearly defines head elements as being separate from the main text elements.
@@ -118,15 +118,18 @@ developer tools have been utilised to achieve this aim.
         the latest content that has been uploaded to Soundcloud.
     * On the Events page, a number of ficitious events have been marked on an embedded 
         Google Map. Details towards each event can be found below.
-    * The navigation bar is also interactive by the provision of a collapsible button that
-        allows the user to easily find their way to any page on the site. While still adhering
-        to the visual appeal of the site when viewed on smaller devices.
+    * The contact page utilises MailJSs API so that User's can send queries and automatically
+        recieve a response, informing the User of the timescale in which a response will be 
+        given and thanks for contacting *Jig & Thonic*.
 
 ### Features left to implement
 
-* I would have liked to have included a carousel on the bottom
-of each page to link to any of the other pages across the
-site.
+* In the future I would like to also include links to a YouTube channel and look at their 
+    developer tools to see if a 'Widget', similar to that of the Facebook one that can
+    be found on the Homepage, or whether it can be embedded and automatically updated by
+    their developer tools alone.
+* I also would of liked to have included bespoke custom markers, that give a little more 
+    information on the Google Map, but I have not been able to figure this out effectively. 
 
 ## Technologies Used
 
@@ -134,21 +137,32 @@ site.
 
 * [HTML 5](https://en.wikipedia.org/wiki/HTML5)
 * [CSS3](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
+* [JavaScript] (https://en.wikipedia.org/wiki/JavaScript)
 
 ### Frameworks, Libraries & Programs Used
 
 1. [Bootstrap 4.5:](https://getbootstrap.com/docs/4.5/getting-started/introduction/)
     - Bootstrap was used to assist with the responsiveness and styling of the website.
 1. [Google Fonts:](https://fonts.google.com/)
-    - Google fonts were used to import the 'Muli' and 'Roboto Slab' fonts into the style.css file which is used on all pages throughout the project.
+    - Google fonts were used to import the 'Lily Script One' and 'Yanone Kaffeesatz' fonts into the style.css file which is used on all pages throughout the project.
 1. [Font Awesome:](https://fontawesome.com/)
     - Font Awesome was used on all pages throughout the website to add icons for aesthetic and UX purposes.
 1. [jQuery:](https://jquery.com/)
     - jQuery came with Bootstrap to make the navbar responsive and other Bootstrap functions.
-1. [Git](https://git-scm.com/)
+1. [Git:](https://git-scm.com/)
     - Git was used for version control by utilizing the Gitpod terminal to commit to Git and push to GitHub.
 1. [GitHub:](https://github.com/)
     - GitHub is used to store the project's code after being pushed from Git.
+1. [GoogleMaps:] (https://developers.google.com/maps/documentation/javascript/overview)
+    - Google Maps has been implemented to show the User where a number of fictitious events are
+        taking place and highlight the author's ability to use JavaScript to create custom, marked locations. 
+1. [EmailJS:] (https://www.emailjs.com/)
+    - EmailJS has been implemented to allow for an automated emailing service and contact form. This allows
+        User's to easily contact the author and be provided with an automated response upon sending their request.
+1. [Soundcloud:] (https://www.soundcloud.com)
+    - Soundcloud has been used to embed the author's tracks and recordings, which will be updated as the author
+        updates each respective playlist.
+1. []
 1. [Balsamiq:](https://balsamiq.com/)
     - Balsamiq was used to create the [wireframes](https://en.wikipedia.org/wiki/Website_wireframe) during the design process.
 1. [Microsoft Word:](https://www.microsoft.com/en-gb/microsoft-365/word)
