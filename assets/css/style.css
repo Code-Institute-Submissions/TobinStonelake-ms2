@@ -1,50 +1,55 @@
+
+
 .container-fluid {
-background-color: #800080;
-height: 150%;
-width: 100%
+  background-color: #800080;
+  height: 150%;
+  width: 100%
 }
 
 .fa-record-vinyl {
-font-size: 20px;
-color: #800080;
+  font-size: 20px;
+  color: #800080;
 }
 
 .banner-image {
-   width: 100%;
-   height: auto;
+  width: 100%;
+  height: auto;
 }
 
 .disco-hmpg {
-width: 20rem;
-height: 20rem;   
+  width: 20rem;
+  height: 20rem;
 }
 
 .main-text {
-flex-wrap: nowrap;
+  flex-wrap: nowrap;
 }
 
 h1 {
-    font-size: 15vw;
+  font-size: 15vw;
 }
-.head-text{
-font-family: 'Lily Script One', cursive;
-font-weight: 300;
-font-style: normal;
-letter-spacing: 3px;
-padding: 60px 60px 0px 60px;
-color: white;
+
+.head-text {
+  font-family: 'Lily Script One', cursive;
+  font-weight: 300;
+  font-style: normal;
+  letter-spacing: 3px;
+  padding: 60px 60px 0px 60px;
+  color: white;
 }
 
 .normal-text {
-font-family: 'Yanone Kaffeesatz', sans-serif;
-font-weight: 300;
-font-style: normal;
-letter-spacing: 3px;
-color: white;
-font-size: 4.5vw;
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+  font-weight: 300;
+  font-style: normal;
+  letter-spacing: 3px;
+  color: white;
+  font-size: 4.5vw;
 }
 
+
 /* Elfsight Widget */
+
 
 /* .eapps-facebook-feed-header-top {
     background: #800080;
@@ -61,6 +66,7 @@ font-size: 4.5vw;
     border-color: white;
 } */
 
+
 /* Unfortunately, I cannot work out how to override the
 CSS that is imported with the widget, without using
 Elfsight's custom CSS tool on their site. Original
@@ -68,69 +74,68 @@ style choices were made through Inspect element functions
 and copied and pasted into Elfsight's tool. Please refer to
 README documentation for evidence of this. */
 
-
 .tracks {
-    margin-top: 30px;
+  margin-top: 30px;
 }
 
 .product-head {
-font-size: 7.5vw
+  font-size: 7.5vw
 }
 
 .card-text {
-font-family: 'Yanone Kaffeesatz', sans-serif;
-color: #800080; 
-letter-spacing: 3px;
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+  color: #800080;
+  letter-spacing: 3px;
 }
 
 #map {
-    min-height: 360px;
-    width: 100%;
-    margin-top: 100px;
-    }
-
+  min-height: 360px;
+  width: 100%;
+  margin-top: 100px;
+}
 
 .form-text {
-font-family: 'Yanone Kaffeesatz', sans-serif;
-font-weight: 300;
-font-style: normal;
-letter-spacing: 3px;
-color: white;
-font-size: 3vw;
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+  font-weight: 300;
+  font-style: normal;
+  letter-spacing: 3px;
+  color: white;
+  font-size: 3vw;
 }
 
 footer {
-    position: relative;
-    width: 100%;
-    margin: 0px;
+  position: relative;
+  width: 100%;
+  margin: 0px;
 }
 
 .footer-image {
-    height: 25%;
-    width: 25%;
+  height: 25%;
+  width: 25%;
 }
 
 .footer-text {
-    font-family: 'Yanone Kaffeesatz', sans-serif;
-    position: absolute;
-    text-align: auto;
-    bottom: 0;
-    color: white;
-    margin-bottom: 50px;
-    font-size: 3vh;
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+  position: absolute;
+  text-align: auto;
+  bottom: 0;
+  color: white;
+  margin-bottom: 50px;
+  font-size: 3vh;
 }
 
 .soc-link {
-    position: absolute;
-    bottom: 0;
-    color: white;
-    margin-bottom: 10px;
-    }
+  position: absolute;
+  bottom: 0;
+  color: white;
+  margin-bottom: 10px;
+}
 
 .soc-link2 {
-    position: absolute;
-    bottom: 0;
-    color: white;
-    margin-bottom: 10px;
-    margin-left: 50px;
-    }
+  position: absolute;
+  bottom: 0;
+  color: white;
+  margin-bottom: 10px;
+  margin-left: 50px;
+}
+
