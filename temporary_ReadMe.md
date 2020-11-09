@@ -434,18 +434,14 @@ and conveying that they can view the content and access the interactive function
 during the creation of this project.
 
 * I have utilised extra information to allow me to create this page from
-Bootstrap's documentation and articles that can be found on W3. 
+Bootstrap's documentation, the relevant developer tools from each site, and articles that can be found on W3. 
 
 * For minor issues, I have read through the Code Institute's material, 
 its Slack channels and, as a last resort, forum posts in Stack Overflow.
 
 * To standardise the formatting of my HTML and CSS code, I used https://www.freeformatter.com/html-formatter.html#ad-output and https://www.freeformatter.com/css-beautifier.html#ad-output
 
-* I also referred to Clever Techie's Responsive Navbar with Bootstrap 4
-video on Youtube to aid its creation https://www.youtube.com/watch?v=L0uNai3XyKQ
-
-* Overcame aria-controls issue by referring to this post on Stack Exchange:
-https://webmasters.stackexchange.com/questions/60241/w3c-validation-error-aria-controls-attribute-must-point-to-an-element-in-the-sa
+* Referred to this video for the shopping basket: https://www.youtube.com/watch?v=YeFzkC2awTM
 
 #### Port Used To View Real-Time Edits
 
