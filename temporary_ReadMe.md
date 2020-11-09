@@ -74,7 +74,7 @@ developer tools have been utilised to achieve this aim.
         text. 
     * The author is also particularly keen on colour schemes that do
         not have bright backgrounds, due to the preferences of their 
-        reading sytle and preferred digital interfaces.
+        reading style and preferred digital interfaces.
     * By the choice of an unorthodox colour scheme, it also helps to define
         the content, while still keeping a uniformed style across all pages.
         User's still know that they are looking at *Jig & Thonic's* site, 
@@ -102,7 +102,7 @@ developer tools have been utilised to achieve this aim.
         includes *Jig & Thonic's* logo and familiar banner found on their other sites. 
 
 * Wireframes
-    * [Wireframe](assets/images/wireframe.pdf)
+    * [Wireframe](assets/README_files/milestone_2.pdf)
 
 ## Features
 
@@ -170,7 +170,6 @@ developer tools have been utilised to achieve this aim.
     - Balsamiq was used to create the [wireframes](https://en.wikipedia.org/wiki/Website_wireframe) during the design process.
 1. [Microsoft Word:](https://www.microsoft.com/en-gb/microsoft-365/word)
     - Was used to write the content and ensure that the grammatical nature of the content was preserved.    
-
 
 ## Testing
 
