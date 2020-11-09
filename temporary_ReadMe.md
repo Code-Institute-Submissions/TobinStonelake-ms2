@@ -2,7 +2,7 @@
 
 [View the live website here](https://tobinstonelake.github.io/ms2/)
 
-![Homepage](assets/images/hmpgreadmetop.png)
+![Homepage](assets/README_files/README_images/responsivechecker.png)
 
 This is the second Milestone Project for the 
 Code Institute's Full Stack Developer course.
@@ -178,19 +178,23 @@ developer tools have been utilised to achieve this aim.
 **Disclaimer: All testing screenshots can be found after the relevant entry via a link.**
 
 * First Time Visitor Goals
-    1. As a First Time Visitor, I want to be able to easily access the
-        authors own projects and contact page from the homepage and navigation bar. 
+    1. As a First Time Visitor, I want to be able to hear the abilties
+        of *Jig & Thonic* and reach their predominant social sites easily.
 
-        1. The navigation bar is fixed across all pages and links to each page. [Navigation Bar Screenshot](assets/images/navbar.png)
-        2. On smaller devices, the navigation links are combined into a dropdown button. [Button Screenshot](assets/images/button.png)
-        3. The cards at the bottom of the homepage indicate what each page is about and has an easy to find button
-            take the user to the relevant site. [Card Screenshot](assets/images/card.png)
+        1. On the Hompage, a Facebook Widget has been included. This includes the latest 
+        posts by *Jig & Thonic* and their recordings and events. [Facebook Widget Screenshot](assets/README_files/README_images/facebookwidget.png)
+        2. On the Tracks page, embedded Soundcloud players are included. 
+        Allowing User's to easily reach the predominant platform where *Jig & Thonic* upload
+        their music. [Player Screenshot](assets/README_files/README_images/tracksimg.png)
+        3. At the Footer on each page, links to the relevant social sites can be easily found.
+        Utilising the icons of both sites to indicate where the User will be visiting. [Footer Social Screenshot](assets/README_files/README_images/socialimg.png)
 
-    1. As a First Time Visitor, I wish to be able to learn more about the content
-        that is presented across the site.
+    1. As a First Time Visitor, I want to be able to have access to the content
+        produced by *Jig & Thonic* on one site, without having to visit several
+        different sites.
 
-        1. At the bottom of each of the blog pages, there is a modal which pops up with all citations used
-            within the content. [Modal Screenshot](assets/images/modalbtn.png)
+        1. The Navigation bar on each page clearly and distinctly leads the User to the relevant
+        page that they are looking for. [Navbar Screenshot](assets/README_files/README_images/navbarimg.png)
         2. Once the modal has been opened, each source has been referenced following the Harvard
             referencing system. An industry standard for content of this nature. [Modal Content Screenshot](assets/images/modcnt.png)
         3. Any sources, which are the majority, that can be found online have the relevant link to access
