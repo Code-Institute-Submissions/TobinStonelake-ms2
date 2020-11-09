@@ -306,13 +306,9 @@ devices.
 ### Known Issues
 
 * There are some final little aesthetic issues that I would like to fix:
-    * On some devices elements also become slightly unaligned, such as 
-        the URM on the top right of the navigation bar.
-    * When smaller devices are used in landscape mode, the footer on the
-        contact page seems to be much larger than on other devices.
-    * When smaller devices are used in landscape mode, some of the images can
-        also become shrunk.
-    * On some devices, the Contact Page footer is very large.
+    * The footer copyright text can become a tad too small when viewed on certain devices.
+    * Text can appear quite large on smaller devices.
+    * On some devices, the Contact Page footer image is very large.
 
 * At present, the Products page, which is not known whether it will be included or not,
 seems to double up when adding to the basket at the bottom. This will require some tweaking
@@ -320,13 +316,13 @@ to overcome this issue.
 
 ### Screenshots across different devices
 
-![Homepage](assets/images/hmpgreadmetop.png)
+![Homepage](assets/README_files/README_images/responsivechecker.png)
 
-![Automation Blog](assets/images/respauto.png)
+![Tracks Page](assets/README_files/README_images/tracksresp.png)
 
-![Globalisation Blog](assets/images/respglob.png)
+![Events Page](assets/README_files/README_images/eventsresp.png)
 
-![Contact Page](assets/images/respcont.png)
+![Contact Page](assets/README_files/README_images/contactresp.png)
 
 ### W3 Validators
 
@@ -334,35 +330,41 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 This led to a number of errors being present and resolutions needed to overcome said issues.
 Evidence of these tests can be found below:
 
+* As a sidenote, at the time of writing I had two errors that were unable to be fixed until
+assurance is provided by my mentor or student support. One is that I get an error due to the
+use of the type attribute when linking JavaScript resources. The other is that I get a failure
+on the tracks page due to the embedded styling found on the Soundcloud players. It notes that 
+this should be in the CSS folder.
+
 #### CSS
 
-[Test 1](assets/images/cssvalidatort1.png) / [Test 2](assets/images/cssvalidatort2.png) / [Test 3](assets/images/cssvalidatort3.png)
+[Test](assets/README_files/README_images/cssvalid.png)
 
 #### Index HTML
 
-[Test 1](assets/images/indexvalidt1.png) / [Test 2](assets/images/indexvalidt2.png) / [Test 3](assets/images/indexvalidt3.png) / [Test 4](assets/images/indexvalidt4.png) / [Test 5](assets/images/indexvalidt5.png)
+[Test](assets/README_files/README_images/indexvalid.png)
 
-#### Automation HTML
+#### Tracks HTML
 
-[Test 1](assets/images/autovalidt1.png) / [Test 2](assets/images/autovalidt2.png) / [Test 3](assets/images/autovalidt3.png) / [Test 4](assets/images/autovalidt4.png)
+[Test](assets/README_files/README_images/tracksvalid.png)
 
-#### Globalisation HTML
+#### Events HTML
 
-[Test 1](assets/images/globvalidt1.png) / [Test 2](assets/images/globvalidt2.png) / [Test 3](assets/images/globvalidt3.png) / [Test 4](assets/images/globvalidt4.png)
+[Test](assets/README_files/README_images/eventsvalid.png)
 
 #### Contact HTML
 
-[Test 1](assets/images/contvalidt1.png) / [Test 2](assets/images/contvalidt2.png) / [Test 3](assets/images/contvalidt3.png) / [Test 4](assets/images/contvalidt4.png)
+[Test](assets/README_files/README_images/contactvalid.png)
 
 ## Deployment
 
 ### GitHub Pages
 
-This project was deployed to GitHub pages for ease, as the project was written in Gitpod.
-It required the following steps:
+The project was deployed to GitHub Pages using the following steps...
 
 1. Log in to GitHub and locate the [GitHub Repository](https://github.com/)
 2. At the top of the Repository (not top of page), locate the "Settings" Button on the menu.
+    - Alternatively Click [Here](https://raw.githubusercontent.com/) for a GIF demonstrating the process starting from Step 2.
 3. Scroll down the Settings page until you locate the "GitHub Pages" Section.
 4. Under "Source", click the dropdown called "None" and select "Master Branch".
 5. The page will automatically refresh.

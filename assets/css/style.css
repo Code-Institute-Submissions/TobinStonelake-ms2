@@ -142,7 +142,7 @@ footer {
 .footer-text {
   font-family: 'Yanone Kaffeesatz', sans-serif;
   position: absolute;
-  text-align: center;
+  text-align: left;
   bottom: 0;
   color: white;
   margin-bottom: 50px;
