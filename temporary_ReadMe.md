@@ -244,26 +244,33 @@ developer tools have been utilised to achieve this aim.
 
         1. This aim is reached by the provision of the relevant developer tools from each site and their implementation.
         2. By using cross-platform services, the Site Owner has the ability to cater these tools themselves.
-        As mentioned in the CSS, the Facebook widget had to be stylised within their own 
+        As mentioned in the CSS, the Facebook widget had to be stylised within their own environment. This is indicated 
+        through the following screenshot and achieved by using the inspect element tool on Google Chrome. 
+        [Elfsight CSS Screenshot](assets/README_files/README_images/elfsightcustomisation.png) 
 
-    1. The Site Owner's goal will improve their chance of employability
-        by highlighting the capabilities of the author across a 
-        number of academic disciplines: Political Philosophy and 
-        Full Stack Development.
+    1. The Site Owner's goal will be to improve their ability 
+        to be competitive within the dynamic and saturated DJ 
+        market. This will be achieved by making contact easy and, as
+        aforementioned, reach their other sites easily.
 
-        1. The content included has been the highest graded pieces of work that the author has written.
-            Therefore, it reflects the most academically sound ability of the author.
-        2. By using a digital platform to showcase the author's work, it conveys the development ability
-            that the author also has.
-        3. The choice towards the aesthetic design principles across the site highlights the creative
-            eye for detail that the author has in presenting their own work. Across both disciplines. 
+        1. By the use of a centralised hub, the author can easily showcase any and all work
+        that has gone into *Jig & Thonic*. This makes it easy for prospective clients to gain an indication
+        of their abilities and make an informed decision towards the viability of *Jig & Thonic* for their needs.
+        2. Because of this, it saves both the client and *Jig & Thonic* time in ensuring that an efficient
+        and effective service is delivered. Backed by the use of social media to indicate their presence and as a
+        portfolio of work.
+        3. By using an automated email service, clients can easily contact the author to create a correspondence.
+        This greatly improves the financial prospects towards their service becoming used. 
 
-    1. The Site Owner's indication towards this goal is the 
-        choice to include a contact page for the author to promote 
-        collaboration and allow potential employers or anyone interested in the site content, can reach out to the author.
+    1. The Site Owner's want to promote themselves effortlessly and 
+        effectively, via the use of a centralised website.
 
-        1. Contact information can easily be found on the footer, across all pages, and through
-            a dedicated contact page. [Contact Page Screenshot](assets/images/contactpg.png) / [Footer Social Links Screenshot](assets/images/socmed.png)
+        1. This is the main focal point of the site's creation. Once the author's skillset has been further
+        developed and extra content is created and uploaded to sites such as YouTube, Spotify and Mixcloud,
+        the author will also implement these via their respective development tools.
+        2. This can also be said for a shopping basket with different services that can be offered. For the
+        moment, the author was advised to wait until their skillset was further developed with the Code Institute,
+        as this will be a necessary criterion in a later module.
 
 ### Achieved Testing
 
@@ -275,29 +282,26 @@ functions across devices that I do not have access to.
 
 * During this period, my main focus was to ensure that the site 
 was responsive, followed its theme and was as visually appealing
-and was useable across all devices.
+and useable across all devices.
 
-* My largest issue has been with the navigation bar and footer.
-This is due to issues with them overlapping or underlapping
-the primary page content. Their general size across the pages
-has also given me difficulties.
+* My largest issue has been with the footer image. This required several tweaks
+to ensure that the footer looked and responded well across all media queries.
 
-* Overcoming the aria-controls error I had when validating my code,
-    required me to refer to Stack Overflow.
+* EmailJS has been tested and deployed on the site as it works as expected. Emails
+can be sent and an uto-reply is received.
 
 * Checked all links across all pages lead to the relevant pages.
 
 * All external links open a new tab using the _blank attribute.
 
-* I was unable to work out why there are two error messages on my index.html validation.
-    To my knowledge, I do have a h1 element, upon the overlay, and I had the same issue
-    previously with my other HTML pages. This needed to be outside the section, as a child
-    of the article.
+* If the products page is to be included, then there are some minor tweaks that need to 
+be rectified. If it is, this will serve as giving the client an indication of the cost 
+of the services that can be provided. 
 
 ### Further Testing
 
-* In some instances, my pictures fully are not fully
-    responsive. 
+* The font size may need to be tweaked to ensure that readibility is preserved across all
+devices.
 
 ### Known Issues
 
@@ -310,16 +314,9 @@ has also given me difficulties.
         also become shrunk.
     * On some devices, the Contact Page footer is very large.
 
-* The picture becomes cropped at certain
-    media queries and I have been unable to rectify this issue within
-    the timeframe of the project.
-
-* One visual issue that I am unable to overcome is the margins when switching to
-    the Galaxy Fold emulator on Google Chrome's inspect function. Unsure whether this
-    is a browser issue or an issue that relates to my code. Is not affected
-    on any other emulated devices, though it does carry this issue through
-    after clicking on another emulated device. This latter aspect inspires
-    confidence that is a Chrome issue, rather than with my own code.
+* At present, the Products page, which is not known whether it will be included or not,
+seems to double up when adding to the basket at the bottom. This will require some tweaking
+to overcome this issue. 
 
 ### Screenshots across different devices
 
