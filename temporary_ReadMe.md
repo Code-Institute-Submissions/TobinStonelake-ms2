@@ -195,48 +195,56 @@ developer tools have been utilised to achieve this aim.
 
         1. The Navigation bar on each page clearly and distinctly leads the User to the relevant
         page that they are looking for. [Navbar Screenshot](assets/README_files/README_images/navbarimg.png)
-        2. Once the modal has been opened, each source has been referenced following the Harvard
-            referencing system. An industry standard for content of this nature. [Modal Content Screenshot](assets/images/modcnt.png)
-        3. Any sources, which are the majority, that can be found online have the relevant link to access
-            the source. [Modal Link Screenshot](assets/images/modlink.png)
+        2. The benefit of using the Facebook widget and the Soundcloud embedded players is that it
+        give User's the latest updates without any extra coding required across this page. Therfore,
+        this aim is reached through their implementation. *Refer to above Facebook widget screenshot and the Player screenshot.
+        3. By creating a centralised hub of *Jig & Thonic's* activity, it achieves this aim well and
+        allows User's to also easily contact the author. Either through the contact form or their preferred social
+        media avenue.  [Contact Form Screenshot](assets/README_files/README_images/contactimg.png)
 
-    1. As a First Time Visitor, I want to gain a perspective towards the capabilities
-        of the author's academic potential. In terms of both political theory and development.
+    1. As a First Time Visitor, I want to be able to easily contact *Jig & Thonic*
+        with queries and ensure that a response will be given back within a declared
+        timeframe.
 
-        1. The content of the page clearly conveys the authors academic potential.
-        2. Due to the nature of this being a website also built by the content author, 
-            it clearly conveys the technical capabilities towards their development skills.
+        1. The Contact page utilises EmailJS, which sends an automated response to the user 
+        once their query has been submitted.   [Auto-reply Screenshot](assets/README_files/README_images/emailjsautoreply.png)
+        2. The timeframe is declared on both the auto-reply and on the contact page itself.
+        [Auto-reply Screenshot](assets/README_files/README_images/contactnotice.png) 
 
 * Returning and Frequent Visitor Goals
     1. As a Returning or Frequent Visitor, I want to be able to view the progression of the author's work.
         Periodically and dynamically.
 
-        1. As the user returns to the site, the site will be updated with new articles as
-            soon as they are completed.
+        1. As the user returns to the site, the site will be updated with *Jig & Thonic's* latest
+        news, events and recordings.
 
     1. As a Returning or Frequent Visitor, I want to be able to easily contact the author to be able to 
-        collaborate and gain any extra information that they would like. [Contact Page Screenshot](assets/images/contactpg.png)
+        collaborate and gain any extra information that they would like.
 
-        1. There is a contact page that can be easily accessed from the navigation bar and homepage.
-        2. Within this contact page, there are several mediums that could potentially lead to
-            contacting the author.
+        1. There is a contact page that can be easily accessed from the navigation bar.
+        2. The use of EmailJS ensures that the User's request is easily highlighted to the author
+        and ensures that they will be responded to.
+        3. A necessary caveat of being successful within the Club/Bar scene (the author's preferred setting),
+        is that they are easily reachable to improve the employability prospects within this sector.
 
-    1. As a Returning or Frequent Visitor, I want to be able to have a number of different options towards 
-        contacting the author.
+    1. As a Returning or Frequent Visitor, I want a singular portal where all of *Jig & Thonic's*
+        material can be found and, thus, easily shared between others. 
 
-        1. On the footer, social media links can be found across all pages. Allowing the user to
-            contact the author dynamically, even if they are not on the contact page. [Social Links Screenshot](assets/images/socmed.png)
-        2. Email, YouTube, Facebook and LinkedIn information is provided on the contact page.
+        1. The nature of the modern world and its increased use of mobile-technology means that a singular 
+        hub is more important than ever. This ensures that a User has an easy to reach platform and does not
+        require them to jump across multiple apps or pages to reach all of *Jig & Thonic's* content.
+        2. Because of this singular, centralised hub of content. User's can easily share the page to
+        others who may be interested in the site or conveyed their interest towards *Jig & Thonic*, via one link.
 
 * Site Owner Goals
-    1. The Site Owner's goal is to utilise digital platforms to 
-        shape a personal portfolio of the author's academic research
-        and written work.
+    1. The Site Owner's goal is to utilise digital platforms, particularly
+        Social Media and other user-focused Content/Media sites to create
+        a hub in which all of the promotional material can be found on one
+        site.
 
-        1. The site clearly conveys on the homepage cards the nature of the content that has been
-            written and which projects the content can be attributed. [Original Source/Idea Screenshot](assets/images/cardethos.png)
-        2. With the use of the modal at the bottom of each page, any user can easily find the sources
-            that the author amassed and based the written content on. [Modal Content Screenshot](assets/images/modcnt.png)
+        1. This aim is reached by the provision of the relevant developer tools from each site and their implementation.
+        2. By using cross-platform services, the Site Owner has the ability to cater these tools themselves.
+        As mentioned in the CSS, the Facebook widget had to be stylised within their own 
 
     1. The Site Owner's goal will improve their chance of employability
         by highlighting the capabilities of the author across a 
