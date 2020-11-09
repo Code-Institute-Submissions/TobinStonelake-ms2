@@ -1,4 +1,4 @@
-
+/* Generic Body Container */
 
 .container-fluid {
   background-color: #800080;
@@ -6,20 +6,27 @@
   width: 100%
 }
 
+/* Generic Body Container Finish */
+
+/* Custom Navbar Icon */
+
 .fa-record-vinyl {
   font-size: 20px;
   color: #800080;
 }
+
+/* Custom Navbar Icon Finish */
+
+/* Banner */
 
 .banner-image {
   width: 100%;
   height: auto;
 }
 
-.disco-hmpg {
-  width: 20rem;
-  height: 20rem;
-}
+/* Banner Finish */
+
+/* Text Styling */
 
 .main-text {
   flex-wrap: nowrap;
@@ -47,9 +54,9 @@ h1 {
   font-size: 4.5vw;
 }
 
+/* Text Styling Finish */
 
 /* Elfsight Widget */
-
 
 /* .eapps-facebook-feed-header-top {
     background: #800080;
@@ -66,7 +73,6 @@ h1 {
     border-color: white;
 } */
 
-
 /* Unfortunately, I cannot work out how to override the
 CSS that is imported with the widget, without using
 Elfsight's custom CSS tool on their site. Original
@@ -74,13 +80,24 @@ style choices were made through Inspect element functions
 and copied and pasted into Elfsight's tool. Please refer to
 README documentation for evidence of this. */
 
+/* Elfsight Widget Finish */
+
+/* Tracks Styling */
+
 .tracks {
   margin-top: 30px;
 }
 
+/* Most of the styling of the players have been edited within the embedded code.
+As per the Soundcloud Developer documentation. */
+
+/* Tracks Styling Finish */
+
 .product-head {
   font-size: 7.5vw
 }
+
+/* Events Page Styling */
 
 .card-text {
   font-family: 'Yanone Kaffeesatz', sans-serif;
@@ -94,6 +111,10 @@ README documentation for evidence of this. */
   margin-top: 100px;
 }
 
+/* Events Page Styling Finish */
+
+/* EmailJS Form Styling */
+
 .form-text {
   font-family: 'Yanone Kaffeesatz', sans-serif;
   font-weight: 300;
@@ -102,6 +123,10 @@ README documentation for evidence of this. */
   color: white;
   font-size: 3vw;
 }
+
+/* EmailJS Form Styling Finish */
+
+/* Footer Styling */
 
 footer {
   position: relative;
@@ -138,4 +163,6 @@ footer {
   margin-bottom: 10px;
   margin-left: 50px;
 }
+
+/* Footer Styling Finish */
 
