@@ -1,3 +1,8 @@
+const SOME_LOCATION = {
+  lat: 51.02063751220703,
+  lng: -3.1040375232696533,
+  label: "ABC",
+};
 function initMap() {
   var map = new google.maps.Map(document.getElementById("map"), {
     zoom: 10,
