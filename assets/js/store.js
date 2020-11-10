@@ -28,7 +28,7 @@ function ready() {
 
 function removeCartItem(event) {
     var buttonClicked = event.target
-    buttonClicked.parentElement.parentElement.parentElement.remove()
+    buttonClicked.parentElement.parentElement.parentElement.parentElement.remove()
     updateCartTotal()
 }
 
@@ -42,7 +42,7 @@ function quantityChanged(event) {
 
 function addToCartClicked(event) {
     var button = event.target
-    var shopItem = button.parentElement.parentElement
+    var shopItem = button.parentElement.parentElement.parentElement
     var title = shopItem.getElementsByClassName('shop-item-title')[0].innerText
     var price = shopItem.getElementsByClassName('shop-item-price')[0].innerText
     var imageSrc = shopItem.getElementsByClassName('shop-item-image')[0].src
@@ -57,7 +57,7 @@ function addItemToCart(title, price, imageSrc) {
     var cartItemNames = cartItems.getElementsByClassName('cart-item-title')
     for (var i = 0; i < cartItemNames.length; i++) {
        if (cartItemNames[i].innerText == title) {
-       alert('This item is already added to the cart.')
+       alert('This item is already added to the total.')
        return 
     }
 }
@@ -106,6 +106,6 @@ function updateCartTotal() {
         var quantity = quantityElement.value
         total = total + (price * quantity)
     }
-    // total = Math.round(total * 100) / 100
+    total = Math.round(total * 100) / 100
     document.getElementsByClassName('cart-total-price')[0].innerText = '£' + total
 }
