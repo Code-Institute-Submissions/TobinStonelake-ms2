@@ -6,11 +6,14 @@ function sendMail(contactForm) {
     })
     .then(
         function(response) {
-            console.log("SUCCESS", response);
+            document.getElementById('sendForm').addEventListener('click', function() {
+            alert('Thank you for submitting your query!\nWe will be back in contact within 3-5 working days.')
+            });
         },
         function(error) {
             console.log("FAILED", error);
         }
     );
     return false;
-}
+};
+
