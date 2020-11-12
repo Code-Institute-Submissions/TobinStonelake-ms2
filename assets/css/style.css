@@ -99,6 +99,10 @@ As per the Soundcloud Developer documentation. */
 
 /* Events Page Styling */
 
+.card {
+    margin: 10px;
+}
+
 .card-text {
   font-family: 'Yanone Kaffeesatz', sans-serif;
   color: #800080;
@@ -135,8 +139,9 @@ footer {
 }
 
 .footer-image {
-  height: 25%;
-  width: 25%;
+  height: 100%;
+  width: 202px;
+  padding-top: 10px;
 }
 
 .footer-text {
