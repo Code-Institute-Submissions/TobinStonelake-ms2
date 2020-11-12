@@ -139,9 +139,11 @@ footer {
 }
 
 .footer-image {
-  height: 100%;
-  width: 202px;
+  position: relative;
+  max-height: 30rem;
+  max-width: 35rem;
   padding-top: 10px;
+  float: right;
 }
 
 .footer-text {
@@ -151,7 +153,8 @@ footer {
   bottom: 0;
   color: white;
   margin-bottom: 50px;
-  font-size: 3vh;
+  font-size: 5vh;
+  left: 0px;
 }
 
 .soc-link {
