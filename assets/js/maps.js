@@ -1,8 +1,18 @@
-const SOME_LOCATION = {
+const ALE_HOUSE = {
   lat: 51.02063751220703,
   lng: -3.1040375232696533,
-  label: "ABC",
 };
+
+const PITCHER_PIANO = {
+  lat: 51.01443099975586,
+  lng: -3.1043453216552734,
+};
+
+const PUMP_HOUSE = {
+  lat: 50.988731384277344,
+  lng: -3.2471413612365723,
+};
+
 function initMap() {
   var map = new google.maps.Map(document.getElementById("map"), {
     zoom: 10,
@@ -15,9 +25,9 @@ function initMap() {
   var labels = "ABC";
 
   var locations = [
-    { lat: 51.02063751220703, lng: -3.1040375232696533 },
-    { lat: 51.01443099975586, lng: -3.1043453216552734 },
-    { lat: 50.988731384277344, lng: -3.2471413612365723 },
+      ALE_HOUSE,
+      PITCHER_PIANO,
+      PUMP_HOUSE,
   ];
 
   var markers = locations.map(function (location, i) {
