@@ -6,9 +6,7 @@ function sendMail(contactForm) {
     })
     .then(
         function(response) {
-            document.getElementById('sendForm').addEventListener('click', function() {
-            alert('Thank you for submitting your query!\nWe will be back in contact within 3-5 working days.')
-            });
+            console.log("SUCCESS", response);
         },
         function(error) {
             console.log("FAILED", error);
@@ -16,4 +14,8 @@ function sendMail(contactForm) {
     );
     return false;
 };
+
+function formSubmit() {
+            alert('Thank you for submitting your query!\nWe will be back in contact within 3-5 working days.')
+            };
 
