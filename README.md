@@ -167,13 +167,6 @@ developer tools have been utilised to achieve this aim.
         attached to *Jig & Thonic*.
 1. [Canva:](https://www.canva.com/)
     - Canva has been used to create any logos or images that include *Jig & Thonic*.
-1. [Reason:](https://www.reasonstudios.com/)
-    - Any original music on the site has been created on Reason Studio.
-1. [OBSStudio:](https://obsproject.com/)
-    - OBS Studio was used to record any streamed mixes that can be found on the site.
-1. [Pioneer:](https://www.pioneerdj.com/en-gb/product/all-in-one-system/xdj-rx2/black/overview/)
-    - Any other recordings, such as the live and *Tongue and Groove Sessions*, were recorded on the inbuilt recording
-    facility on Pioneer's XDJ-RX2.
 1. [Balsamiq:](https://balsamiq.com/)
     - Balsamiq was used to create the [wireframes](https://en.wikipedia.org/wiki/Website_wireframe) during the design process.
 1. [Microsoft Word:](https://www.microsoft.com/en-gb/microsoft-365/word)

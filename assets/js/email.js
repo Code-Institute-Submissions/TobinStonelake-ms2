@@ -1,8 +1,7 @@
 /**
- * Allows EmailJS to function correctly with the necessary information input by the User.
- * @param {*} contactForm this sets the parameters for the contact form and logs to the console whether the information has been inputted correctly.
+ * Uses EmailJS to interpret the necessary contact information input by the User and send and recieve emails to the user and author of the site.
+ * @param {*} contactForm this sets the parameters for the contact form and creates an alert dependent on whether the form has sent correctly or not. Will also clear the form upon submission,
  */
-
 function sendMail(contactForm) {
   emailjs.send("gmail", "java", {
       "from_name": contactForm.name.value,
@@ -11,23 +10,13 @@ function sendMail(contactForm) {
     })
     .then(
       function (response) {
-        console.log("SUCCESS", response);
+        $('#contactForm').trigger("reset"),
+        alert('Thank you for submitting your query!\nWe will be back in contact within 3-5 working days.');
       },
       function (error) {
-        console.log("FAILED", error);
+        alert('There seems to be an error?!\nPlease double check that all fields have been filled correctly.');
       }
     );
   return false;
 };
 
-/**
- * @name {formSubmit} creates an alert box once the form has been submitted.
- * @type {object}
- * @return {alert}
- * @type {string}
- * @param {alert} informs the User that there form has been submitted and gives indication of the timescale for a response.
- */
-
-function formSubmit() {
-  alert('Thank you for submitting your query!\nWe will be back in contact within 3-5 working days.\nPlease double check that all fields have been filled correctly.')
-};
