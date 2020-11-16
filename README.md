@@ -23,8 +23,7 @@ utilises a number of Frameworks, APIs and embedded developer
 tools to also aid its design across a number of devices and 
 broaden the skills and knowledge of the author.
 
-This site, for the author's DJ act: *Jig & Thonic*, is a  
-promotional site towards their events, songs, mixes and the 
+This site, for the author's DJ act: *Jig & Thonic*, is a promotional site towards their events, songs, mixes and the 
 implementation of EmailJS's API functionality to allow visitor's 
 to contact the author with requests. Further complementing the 
 use of APIs and the skills needed to effectively embed these within 
