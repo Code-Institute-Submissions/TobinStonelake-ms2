@@ -319,9 +319,10 @@ devices.
     * Text can appear quite large on smaller devices.
     * On some devices, the Contact Page footer image is very large.
 
-* At present, the Products page, which is not known whether it will be included or not,
-seems to double up when adding to the basket at the bottom. This will require some tweaking
-to overcome this issue. 
+* The Products page, as seen by previous commits,
+seems to double up when adding to the basket at the bottom. Due to tutor support, this page
+has been ommitted as it was informed that this would be a criteria for a future project and
+be a smoother feature to add once the relevant languages and skills have been learnt. 
 
 ### Screenshots across different devices
 
