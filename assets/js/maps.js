@@ -40,11 +40,8 @@ function initMap() {
   //Calls the const locations defined above.
 
   /**
-   * @name {markers}
    * @type {object} creates the markers on the Google Map.
-   * @param {position} uses the above location array to pinpoint the markers on the map.
-   * @param {labels} iterates through the labels string and assigns each one to a location on the map.
-   */
+  */
   var markers = locations.map(function (location, i) {
     return new google.maps.Marker({
       position: location,
@@ -53,9 +50,7 @@ function initMap() {
   });
 
   /**
-   * @name {MarkerClusterer} clusters the markers together in a handy button, seen on the map, when they are very close together.
-   * @type {object}
-   * @param {imagePath} takes the image of the markerClusterer from the Google Maps documentation.
+   * Clusters the markers together in a handy button, seen on the map, when they are very close together.
    */
   var markerCluster = new MarkerClusterer(map, markers, {
     imagePath: "https://developers.google.com/maps/documentation/javascript/examples/markerclusterer/m",
