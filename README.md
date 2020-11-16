@@ -98,7 +98,7 @@ developer tools have been utilised to achieve this aim.
         The content itself being very stylised and adhering to the design principles of the sites
         where the content has been embedded.
     * Where this is not true is within the banner and footer to carry a cohesive branded look. This 
-        includes *Jig & Thonic's* logo and familiar banner found on their other sites. 
+        includes *Jig & Thonic's* logo.
 
 * Wireframes
     * [Wireframe](assets/README_files/milestone_2.pdf)
@@ -117,7 +117,7 @@ developer tools have been utilised to achieve this aim.
         the latest content that has been uploaded to Soundcloud.
     * On the Events page, a number of fictitious events have been marked on an embedded 
         Google Map. Details towards each event can be found below.
-    * The contact page utilises MailJSs API so that Users can send queries and automatically
+    * The contact page utilises EmailJSs API so that Users can send queries and automatically
         receive a response, informing the User of the timescale in which a response will be 
         given and thanks for contacting *Jig & Thonic*.
 

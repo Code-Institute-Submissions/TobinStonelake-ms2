@@ -2,12 +2,12 @@
  * This is the JS page for my custom locations to be shown on the Google Map.
  */
 
- /**
-  * @const name of location are given before the latitude and location to indicate the name of the establishment where the event can be found.
-  * @type {string} 
-  * @property {number}
-  * @param {LatLng}
-  */
+/**
+ * @const name of location are given before the latitude and location to indicate the name of the establishment where the event can be found.
+ * @type {string} 
+ * @property {number}
+ * @param {LatLng}
+ */
 
 
 const ALE_HOUSE = {
@@ -50,15 +50,15 @@ function initMap() {
 
   var labels = "ABC";
 
- /**
+  /**
    * @type {Array}
    * @param {locations} calls the @const locations defined above.
    */
 
   var locations = [
-      ALE_HOUSE,
-      PITCHER_PIANO,
-      PUMP_HOUSE,
+    ALE_HOUSE,
+    PITCHER_PIANO,
+    PUMP_HOUSE,
   ];
 
   /**
@@ -82,7 +82,6 @@ function initMap() {
    */
 
   var markerCluster = new MarkerClusterer(map, markers, {
-    imagePath:
-      "https://developers.google.com/maps/documentation/javascript/examples/markerclusterer/m",
+    imagePath: "https://developers.google.com/maps/documentation/javascript/examples/markerclusterer/m",
   });
 }
