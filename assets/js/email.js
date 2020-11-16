@@ -29,5 +29,5 @@ function sendMail(contactForm) {
  */
 
 function formSubmit() {
-	alert('Thank you for submitting your query!\nWe will be back in contact within 3-5 working days.')
+	alert('Thank you for submitting your query!\nWe will be back in contact within 3-5 working days.\nPlease double check that all fields have been filled correctly.')
 };
