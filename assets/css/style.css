@@ -1,33 +1,23 @@
 /* Generic Body Container */
-
 .container-fluid {
   background-color: #800080;
   height: 150%;
   width: 100%
 }
-
 /* Generic Body Container Finish */
-
 /* Custom Navbar Icon */
-
 .fa-record-vinyl {
   font-size: 20px;
   color: #800080;
 }
-
 /* Custom Navbar Icon Finish */
-
 /* Banner */
-
 .banner-image {
   width: 100%;
   height: auto;
 }
-
 /* Banner Finish */
-
 /* Text Styling */
-
 .main-text {
   flex-wrap: nowrap;
 }
@@ -53,26 +43,18 @@ h1 {
   color: white;
   font-size: 3vw;
 }
-
 /* Text Styling Finish */
-
 /* Tracks Styling */
-
 .tracks {
   margin-top: 30px;
 }
-
 /* Most of the styling of the players have been edited within the embedded code.
 As per the Soundcloud Developer documentation. */
-
 /* Tracks Styling Finish */
-
 .product-head {
   font-size: 7.5vw
 }
-
 /* Events Page Styling */
-
 .card {
     margin: 10px;
 }
@@ -88,11 +70,8 @@ As per the Soundcloud Developer documentation. */
   width: 100%;
   margin-top: 100px;
 }
-
 /* Events Page Styling Finish */
-
 /* EmailJS Form Styling */
-
 .form-text {
   font-family: 'Yanone Kaffeesatz', sans-serif;
   font-weight: 300;
@@ -101,11 +80,8 @@ As per the Soundcloud Developer documentation. */
   color: white;
   font-size: 3vw;
 }
-
 /* EmailJS Form Styling Finish */
-
 /* Footer Styling */
-
 footer {
   position: relative;
   width: 100%;
@@ -145,6 +121,5 @@ footer {
   margin-bottom: 10px;
   margin-left: 50px;
 }
-
 /* Footer Styling Finish */
 
