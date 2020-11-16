@@ -36,7 +36,7 @@ developer tools have been utilised to achieve this aim.
 ### User Stories
 
 * First Time Visitor Goals
-    1. As a First Time Visitor, I want to be able to hear the abilties
+    1. As a First Time Visitor, I want to be able to hear the abilities
         of *Jig & Thonic* and reach their predominant social sites easily.
     1. As a First Time Visitor, I want to be able to have access to the content
         produced by *Jig & Thonic* on one site, without having to visit several
@@ -48,7 +48,7 @@ developer tools have been utilised to achieve this aim.
 * Returning and Frequent Visitor Goals
     1. As a Returning or Frequent Visitor, I want to be able to view the progression of the author's work.
         Periodically and dynamically. This is aided by the use of embedded developer tools,
-        which themselves update in real time as content is added to the relevant sites.
+        which themselves update in real-time as content is added to the relevant sites.
     1. As a Returning or Frequent Visitor, I want to be able to easily contact the author to be able to 
         collaborate and gain any extra information that they would like.
     1. As a Returning or Frequent Visitor, I want a singular portal where all of *Jig & Thonic's*
@@ -77,7 +77,7 @@ developer tools have been utilised to achieve this aim.
         reading style and preferred digital interfaces.
     * By the choice of an unorthodox colour scheme, it also helps to define
         the content, while still keeping a uniformed style across all pages.
-        User's still know that they are looking at *Jig & Thonic's* site, 
+        Users still know that they are looking at *Jig & Thonic's* site, 
         although they are interacting with content embedded from other sites
         and APIs.
 
@@ -86,18 +86,18 @@ developer tools have been utilised to achieve this aim.
         used throughout the website due to the stylisation that *Jig & Thonic* have
         incorporated within their own branding and promotion. It is remnant of the 70/80s
         Disco themed writing, that the act promotes themselves as representing. To ensure
-        that a similar font will be prevalent, Cursive serves as a fall back.
+        that a similar font will be prevalent, Cursive serves as a fallback.
     * For the main text throughout the site, 'Yanone Kaffeesatz' has been used.
-        In the author's view, this is also resmebeling a retro style font, thus, adhering
+        In the author's view, this is also resembling a retro-style font, thus, adhering
         to the same textual principle that is conveyed by the head font decision. This
         clearly defines head elements as being separate from the main text elements.
         This has Serif as a fallback, also complementing the nature of a defined element of text away from
         the remaining content.
 
 * Imagery
-    * Images have not been used widely across the site, this is as emphasis is towards the content.
+    * Images have not been used widely across the site, this is as the emphasis is towards the content.
         The content itself being very stylised and adhering to the design principles of the sites
-        where the content has been embedded from.
+        where the content has been embedded.
     * Where this is not true is within the banner and footer to carry a cohesive branded look. This 
         includes *Jig & Thonic's* logo and familiar banner found on their other sites. 
 
@@ -116,10 +116,10 @@ developer tools have been utilised to achieve this aim.
     * On the Tracks page, the User can access songs and recorded mixes, created by the author,
         that have been uploaded to Soundcloud. This allows the User to keep up to date with
         the latest content that has been uploaded to Soundcloud.
-    * On the Events page, a number of ficitious events have been marked on an embedded 
+    * On the Events page, a number of fictitious events have been marked on an embedded 
         Google Map. Details towards each event can be found below.
-    * The contact page utilises MailJSs API so that User's can send queries and automatically
-        recieve a response, informing the User of the timescale in which a response will be 
+    * The contact page utilises MailJSs API so that Users can send queries and automatically
+        receive a response, informing the User of the timescale in which a response will be 
         given and thanks for contacting *Jig & Thonic*.
 
 ### Features left to implement
@@ -128,7 +128,7 @@ developer tools have been utilised to achieve this aim.
     developer tools to see if a 'Widget', similar to that of the Facebook one that can
     be found on the Homepage, or whether it can be embedded and automatically updated by
     their developer tools alone.
-* I also would of liked to have included bespoke custom markers, that give a little more 
+* I also would have liked to have included bespoke custom markers, that give a little more 
     information on the Google Map, but I have not been able to figure this out effectively. 
 
 ## Technologies Used
@@ -187,7 +187,7 @@ developer tools have been utilised to achieve this aim.
 **Disclaimer: All testing screenshots can be found after the relevant entry via a link.**
 
 * First Time Visitor Goals
-    1. As a First Time Visitor, I want to be able to hear the abilties
+    1. As a First Time Visitor, I want to be able to hear the abilities
         of *Jig & Thonic* and reach their predominant social sites easily.
 
         1. On the Hompage, a Facebook Widget has been included. This includes the latest 
@@ -208,7 +208,7 @@ developer tools have been utilised to achieve this aim.
         give User's the latest updates without any extra coding required across this page. Therfore,
         this aim is reached through their implementation. *Refer to above Facebook widget screenshot and the Player screenshot.
         3. By creating a centralised hub of *Jig & Thonic's* activity, it achieves this aim well and
-        allows User's to also easily contact the author. Either through the contact form or their preferred social
+        allows Users to also easily contact the author. Either through the contact form or their preferred social
         media avenue.  [Contact Form Screenshot](assets/README_files/README_images/contactimg.png)
 
     1. As a First Time Visitor, I want to be able to easily contact *Jig & Thonic*
@@ -239,10 +239,10 @@ developer tools have been utilised to achieve this aim.
     1. As a Returning or Frequent Visitor, I want a singular portal where all of *Jig & Thonic's*
         material can be found and, thus, easily shared between others. 
 
-        1. The nature of the modern world and its increased use of mobile-technology means that a singular 
+        1. The nature of the modern world and its increased use of mobile technology means that a singular 
         hub is more important than ever. This ensures that a User has an easy to reach platform and does not
         require them to jump across multiple apps or pages to reach all of *Jig & Thonic's* content.
-        2. Because of this singular, centralised hub of content. User's can easily share the page to
+        2. Because of this singular, centralised hub of content. Users can easily share the page to
         others who may be interested in the site or conveyed their interest towards *Jig & Thonic*, via one link.
 
 * Site Owner Goals
@@ -297,19 +297,15 @@ and useable across all devices.
 to ensure that the footer looked and responded well across all media queries.
 
 * EmailJS has been tested and deployed on the site as it works as expected. Emails
-can be sent and an uto-reply is received.
+can be sent and an auto-reply is received.
 
 * Checked all links across all pages lead to the relevant pages.
 
 * All external links open a new tab using the _blank attribute.
 
-* If the products page is to be included, then there are some minor tweaks that need to 
-be rectified. If it is, this will serve as giving the client an indication of the cost 
-of the services that can be provided. 
-
 ### Further Testing
 
-* The font size may need to be tweaked to ensure that readibility is preserved across all
+* The font size may need to be tweaked to ensure that readability is preserved across all
 devices.
 
 ### Known Issues
@@ -321,8 +317,9 @@ devices.
 
 * The Products page, as seen by previous commits,
 seems to double up when adding to the basket at the bottom. Due to tutor support, this page
-has been ommitted as it was informed that this would be a criteria for a future project and
-be a smoother feature to add once the relevant languages and skills have been learnt. 
+has been omitted as it was informed that this would be a criterion for a future project and
+be a smoother feature to add once the relevant languages and skills have been learnt.
+Created by referring to this video: https://www.youtube.com/watch?v=YeFzkC2awTM
 
 ### Screenshots across different devices
 
@@ -344,7 +341,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 This led to a number of errors being present and resolutions needed to overcome said issues.
 Evidence of these tests can be found below:
 
-* As a sidenote, at the time of writing I had two errors that were unable to be fixed until
+* As a side note, at the time of writing I had two errors that were unable to be fixed until
 assurance is provided by my mentor or student support. One is that I get an error due to the
 use of the type attribute when linking JavaScript resources. The other is that I get a failure
 on the tracks page due to the embedded styling found on the Soundcloud players. It notes that 
@@ -446,8 +443,8 @@ its Slack channels and, as a last resort, forum posts in Stack Overflow.
 
 * To standardise the formatting of my HTML and CSS code, I used https://www.freeformatter.com/html-formatter.html#ad-output and https://www.freeformatter.com/css-beautifier.html#ad-output
 
-* Referred to this video for the shopping basket: https://www.youtube.com/watch?v=YeFzkC2awTM
-
 #### Port Used To View Real-Time Edits
 
 python3 -m http.server
+
+
