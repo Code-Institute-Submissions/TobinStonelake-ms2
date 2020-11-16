@@ -137,7 +137,7 @@ developer tools have been utilised to achieve this aim.
 
 * [HTML 5](https://en.wikipedia.org/wiki/HTML5)
 * [CSS3](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
-* [JavaScript] (https://en.wikipedia.org/wiki/JavaScript)
+* [JavaScript](https://en.wikipedia.org/wiki/JavaScript)
 
 ### Frameworks, Libraries & Programs Used
 
@@ -326,12 +326,16 @@ be a smoother feature to add once the relevant languages and skills have been le
 
 ### Screenshots across different devices
 
+#### Homepage/Index
 ![Homepage](assets/README_files/README_images/indexresp.png)
 
+#### Tracks
 ![Tracks Page](assets/README_files/README_images/tracksresp.png)
 
+#### Events
 ![Events Page](assets/README_files/README_images/eventsresp.png)
 
+#### Contact
 ![Contact Page](assets/README_files/README_images/contactresp.png)
 
 ### W3 Validators
@@ -348,23 +352,23 @@ this should be in the CSS folder.
 
 #### CSS
 
-[Test](assets/README_files/README_images/cssvalid.png)
+![CSS Test](assets/README_files/README_images/cssvalid.png)
 
 #### Index HTML
 
-[Test](assets/README_files/README_images/indexvalid.png)
+![Index Test](assets/README_files/README_images/indexvalid.png)
 
 #### Tracks HTML
 
-[Test](assets/README_files/README_images/tracksvalid.png)
+![Tracks Test](assets/README_files/README_images/tracksvalid.png)
 
 #### Events HTML
 
-[Test](assets/README_files/README_images/eventsvalid.png)
+![Events Test](assets/README_files/README_images/eventsvalid.png)
 
 #### Contact HTML
 
-[Test](assets/README_files/README_images/contactvalid.png)
+![Contact Test](assets/README_files/README_images/contactvalid.png)
 
 ## Deployment
 
