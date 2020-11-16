@@ -2,7 +2,7 @@
 
 [View the live website here](https://tobinstonelake.github.io/ms2/)
 
-![Homepage](assets/README_files/README_images/responsivechecker.png)
+![Homepage](assets/README_files/README_images/indexresp.png)
 
 This is the second Milestone Project for the 
 Code Institute's Full Stack Developer course.
@@ -166,13 +166,13 @@ developer tools have been utilised to achieve this aim.
     - Elfsight's Facebook 'Widget' was used to create further interactivity on the Homepage. This was chosen due
         to the nature of the website wanting to be consistently updated across all other relevant sites that are
         attached to *Jig & Thonic*.
-1. [Canva](https://www.canva.com/)
+1. [Canva:](https://www.canva.com/)
     - Canva has been used to create any logos or images that include *Jig & Thonic*.
-1. [Reason](https://www.reasonstudios.com/)
+1. [Reason:](https://www.reasonstudios.com/)
     - Any original music on the site has been created on Reason Studio.
-1. [OBSStudio] (https://obsproject.com/)
+1. [OBSStudio:](https://obsproject.com/)
     - OBS Studio was used to record any streamed mixes that can be found on the site.
-1. [Pioneer](https://www.pioneerdj.com/en-gb/product/all-in-one-system/xdj-rx2/black/overview/)
+1. [Pioneer:](https://www.pioneerdj.com/en-gb/product/all-in-one-system/xdj-rx2/black/overview/)
     - Any other recordings, such as the live and *Tongue and Groove Sessions*, were recorded on the inbuilt recording
     facility on Pioneer's XDJ-RX2.
 1. [Balsamiq:](https://balsamiq.com/)
